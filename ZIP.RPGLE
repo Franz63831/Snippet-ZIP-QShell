@@ -2,7 +2,7 @@
       //  zipAllFilesInDirectory:
       //---------------------------------------------------------------
       
-     dcl-Proc zipAllFilesInDirectory;
+     dcl-Proc zipAllFilesInDirectory;   
        dcl-PI                               *ind;
          inJahr                             like(w1Jahr) Value;
          inMon                              like(w1Mon ) Value;
